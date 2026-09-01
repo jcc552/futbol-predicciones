@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Análisis y fiabilidad — Predicción &amp; Análisis de Fútbol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Ir al contenido</a>
+
+<div class="disclaimer">
+  <strong>Proyecto educativo</strong> — sin apuestas ni dinero real. Todo el saldo es virtual y con fines de análisis estadístico.
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html"><span class="brand-mark">λ</span> Predicción &amp; Análisis</a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html">Inicio</a>
+      <a href="picks.html">Picks del día</a>
+      <a href="analysis.html" aria-current="page">Análisis y fiabilidad</a>
+      <a href="history.html">Historial</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" style="padding-bottom:24px;">
+    <div class="container">
+      <p class="hero-kicker">Metodología y validación</p>
+      <h1>¿Es fiable el modelo? Los números, antes que la promesa.</h1>
+      <p class="lede">
+        Toda predicción se valida primero contra una temporada pasada completa, con un
+        backtesting "walk-forward" (el modelo solo ve partidos anteriores al que predice,
+        nunca datos futuros). Después se compara de forma continua contra dos estrategias
+        de referencia: elegir al azar y apostar siempre al favorito del mercado.
+      </p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Validación contra temporada pasada</h2>
+        <span class="sub">Precalculada por el workflow diario</span>
+      </div>
+      <div id="past-validation"></div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Comparación en vivo — temporada actual</h2>
+        <span class="sub" id="live-backtest-status">Cargando…</span>
+      </div>
+      <div id="strategy-comparison"></div>
+
+      <div class="chart-box" style="margin-top:24px;">
+        <h3>Evolución del saldo simulado por estrategia de selección</h3>
+        <canvas id="strategy-chart" height="110"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Estadísticas del modelo</h2>
+        <span class="sub">Desglose por liga y evolución de rating</span>
+      </div>
+      <div class="two-col">
+        <div class="chart-box">
+          <h3>% de acierto 1X2 por competición</h3>
+          <canvas id="accuracy-chart" height="110"></canvas>
+        </div>
+        <div class="chart-box">
+          <h3>Evolución del rating Elo</h3>
+          <p class="small text-muted" id="elo-chart-caption">Cargando…</p>
+          <canvas id="elo-chart" height="110"></canvas>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Metodología matemática</h2>
+        <span class="sub">Resumen — detalle completo en el README</span>
+      </div>
+      <div class="two-col">
+        <div class="method-card">
+          <h3>Poisson</h3>
+          <p>Probabilidad de que un equipo marque <em>k</em> goles, dada su media esperada λ:</p>
+          <div class="formula">P(X = k) = (λ^k · e^-λ) / k!</div>
+          <p class="small text-muted">λ combina ataque/defensa local-visitante ponderados por recencia, el multiplicador Elo y el ajuste por enfrentamientos directos. Ver <code>js/poisson.js</code> y <code>js/team-stats.js</code>.</p>
+        </div>
+        <div class="method-card">
+          <h3>Elo</h3>
+          <p>Probabilidad esperada de victoria local antes del partido:</p>
+          <div class="formula">E_local = 1 / (1 + 10^((Elo_v − (Elo_l + ventaja)) / 400))</div>
+          <p class="small text-muted">El rating se actualiza tras cada resultado real: Elo' = Elo + K·(resultado − esperado). Ver <code>js/elo.js</code>.</p>
+        </div>
+      </div>
+      <div class="method-card" style="margin-top:24px;">
+        <h3>Kelly fraccionado (stake sugerido)</h3>
+        <div class="formula">f* = (b·p − (1−p)) / b &nbsp;→&nbsp; stake = saldo × f* × ¼ × confianza</div>
+        <p class="small text-muted">b = cuota decimal − 1; p = probabilidad estimada por el modelo. El resultado se acota además a un máximo del 5% del saldo. Ver <code>js/kelly.js</code>.</p>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="legal"><strong>Limitaciones honestas:</strong> ningún modelo estadístico predice el fútbol
+    con un acierto "máximo" de forma consistente — hay una variabilidad estructural (lesiones, decisiones
+    arbitrales, azar) que ningún modelo captura del todo. Estas cifras son una medida objetiva de qué tan
+    bien o mal funciona el modelo, no una promesa de rentabilidad. Ver limitaciones completas en el README.</p>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/elo.js"></script>
+<script src="js/poisson.js"></script>
+<script src="js/team-stats.js"></script>
+<script src="js/predictor.js"></script>
+<script src="js/kelly.js"></script>
+<script src="js/backtest.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/analysis.js"></script>
+</body>
+</html>

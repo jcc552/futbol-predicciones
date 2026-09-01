@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Picks del día — Predicción &amp; Análisis de Fútbol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Ir al contenido</a>
+
+<div class="disclaimer">
+  <strong>Proyecto educativo</strong> — sin apuestas ni dinero real. Todo el saldo es virtual y con fines de análisis estadístico.
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html"><span class="brand-mark">λ</span> Predicción &amp; Análisis</a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html">Inicio</a>
+      <a href="picks.html" aria-current="page">Picks del día</a>
+      <a href="analysis.html">Análisis y fiabilidad</a>
+      <a href="history.html">Historial</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" style="padding-bottom:24px;">
+    <div class="container">
+      <p class="hero-kicker">Value betting simulado</p>
+      <h1>Solo entran los partidos donde el modelo ve más valor que el mercado.</h1>
+      <p class="lede">
+        Un pick aparece aquí cuando la probabilidad estimada por Poisson+Elo supera a la
+        probabilidad implícita en la cuota en al menos un 3% de valor esperado (EV).
+        El stake sugerido usa Kelly fraccionado (¼), reducido según la confianza del modelo.
+      </p>
+      <div class="hero-stats">
+        <div class="stat-block"><div class="num" id="virtual-balance">—</div><div class="label">Saldo virtual disponible</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Picks de valor de hoy</h2>
+        <span class="sub">Ordenados por EV descendente</span>
+      </div>
+      <div id="picks-list"></div>
+      <div id="picks-empty" class="empty-state" style="display:none;">
+        No hay picks con valor suficiente hoy (o no hay datos de partidos/cuotas cargados aún).
+        Esto es esperable: un modelo honesto no debería encontrar "valor" en todos los partidos, todos los días.
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="legal"><strong>Aviso legal:</strong> esta web es un proyecto académico de Ingeniería Informática.
+    No gestiona dinero real. El saldo y las apuestas son simulados con fines de evaluación estadística.</p>
+    <p>Criterio de stake: Kelly fraccionado (¼). Ver metodología completa en <a href="README.md">README</a>.</p>
+  </div>
+</footer>
+
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/elo.js"></script>
+<script src="js/poisson.js"></script>
+<script src="js/team-stats.js"></script>
+<script src="js/predictor.js"></script>
+<script src="js/kelly.js"></script>
+<script src="js/picks.js"></script>
+</body>
+</html>

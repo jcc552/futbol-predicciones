@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Historial — Predicción &amp; Análisis de Fútbol</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Ir al contenido</a>
+
+<div class="disclaimer">
+  <strong>Proyecto educativo</strong> — sin apuestas ni dinero real. Todo el saldo es virtual y con fines de análisis estadístico.
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html"><span class="brand-mark">λ</span> Predicción &amp; Análisis</a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html">Inicio</a>
+      <a href="picks.html">Picks del día</a>
+      <a href="analysis.html">Análisis y fiabilidad</a>
+      <a href="history.html" aria-current="page">Historial</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero" style="padding-bottom:24px;">
+    <div class="container">
+      <p class="hero-kicker">Tu simulación personal</p>
+      <h1>Tus apuestas simuladas, sin filtros.</h1>
+      <p class="lede">Todo lo aceptado desde "Picks del día" queda registrado en tu navegador (localStorage). Nada de esto sale de tu dispositivo.</p>
+
+      <div class="balance-hero">
+        <div class="stat-block"><div class="num" id="hist-balance">—</div><div class="label">Saldo virtual actual</div></div>
+        <div class="stat-block"><div class="num" id="hist-bets">—</div><div class="label">Apuestas registradas</div></div>
+        <div class="stat-block"><div class="num" id="hist-accuracy">—</div><div class="label">% acierto (liquidadas)</div></div>
+        <div class="stat-block"><div class="num" id="hist-roi">—</div><div class="label">ROI (liquidadas)</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="chart-box">
+        <h3>Evolución del saldo</h3>
+        <canvas id="balance-chart" height="100"></canvas>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Detalle de apuestas</h2>
+        <button class="btn ghost" id="reset-btn">Reiniciar saldo e historial</button>
+      </div>
+      <table class="data-table">
+        <thead>
+          <tr><th>Fecha</th><th>Partido</th><th>Mercado</th><th>Cuota</th><th>Stake</th><th>Estado</th><th>Resultado neto</th></tr>
+        </thead>
+        <tbody id="history-body"></tbody>
+      </table>
+      <div id="history-empty" class="empty-state" style="display:none;">
+        Todavía no has aceptado ninguna apuesta simulada. Ve a <a href="picks.html">Picks del día</a> para empezar.
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="legal"><strong>Aviso legal:</strong> saldo y apuestas simulados, sin dinero real. Proyecto académico de Ingeniería Informática.</p>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="js/config.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/data.js"></script>
+<script src="js/charts.js"></script>
+<script src="js/history.js"></script>
+</body>
+</html>

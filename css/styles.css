@@ -1,0 +1,421 @@
+/* =========================================================
+   Predicción & Análisis — identidad visual
+   Paleta: sala de análisis de un cuerpo técnico, no un casino.
+   Verde césped nocturno + tiza + ámbar de "valor" + ladrillo de "pérdida".
+   ========================================================= */
+
+:root {
+  --bg: #0f1b14;
+  --bg-raised: #16241b;
+  --bg-raised-2: #1c2f22;
+  --line: #2a3b2f;
+  --line-strong: #3c5245;
+  --chalk: #edefea;
+  --chalk-dim: #a9b6ab;
+  --muted: #7c9086;
+  --amber: #c9a227;
+  --amber-dim: #8a7226;
+  --brick: #b5533c;
+  --brick-dim: #7a3c2c;
+  --pitch-mid: #1e3325;
+
+  --font-display: "Fraunces", Georgia, serif;
+  --font-body: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --radius: 3px;
+  --content-max: 960px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  background-image:
+    repeating-linear-gradient(180deg, transparent, transparent 119px, var(--pitch-mid) 120px);
+  color: var(--chalk);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+
+img, svg { max-width: 100%; }
+
+.container {
+  max-width: var(--content-max);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* ---------- Skip link / accessibility ---------- */
+.skip-link {
+  position: absolute;
+  left: -999px;
+  top: 0;
+  background: var(--amber);
+  color: #14210f;
+  padding: 8px 14px;
+  z-index: 100;
+}
+.skip-link:focus { left: 12px; top: 12px; }
+
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+
+/* ---------- Header / nav ---------- */
+.site-header {
+  border-bottom: 1px solid var(--line);
+  background: rgba(15, 27, 20, 0.92);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(6px);
+}
+
+.site-header .container {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px 24px;
+}
+
+.brand {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  color: var(--chalk);
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.brand .brand-mark { color: var(--amber); font-style: italic; }
+
+.main-nav { display: flex; gap: 22px; flex-wrap: wrap; }
+.main-nav a {
+  text-decoration: none;
+  color: var(--chalk-dim);
+  font-size: 0.94rem;
+  padding-bottom: 3px;
+  border-bottom: 1px solid transparent;
+}
+.main-nav a:hover, .main-nav a[aria-current="page"] {
+  color: var(--chalk);
+  border-bottom-color: var(--amber);
+}
+
+/* ---------- Disclaimer banner ---------- */
+.disclaimer {
+  background: var(--bg-raised);
+  border-bottom: 1px solid var(--line);
+  color: var(--chalk-dim);
+  font-size: 0.83rem;
+  text-align: center;
+  padding: 7px 12px;
+}
+.disclaimer strong { color: var(--amber); font-weight: 600; }
+
+/* ---------- Hero ---------- */
+.hero {
+  padding: 56px 0 40px;
+  border-bottom: 1px solid var(--line);
+}
+.hero-kicker {
+  color: var(--muted);
+  font-size: 0.95rem;
+  margin: 0 0 10px;
+}
+.hero h1 {
+  font-family: var(--font-display);
+  font-size: clamp(2.1rem, 4vw, 3.1rem);
+  line-height: 1.08;
+  margin: 0 0 18px;
+  max-width: 16ch;
+  font-weight: 600;
+}
+.hero p.lede {
+  max-width: 62ch;
+  color: var(--chalk-dim);
+  font-size: 1.05rem;
+  margin: 0 0 24px;
+}
+
+.hero-stats {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  margin-top: 28px;
+}
+.stat-block .num {
+  font-family: var(--font-display);
+  font-size: 2.1rem;
+  color: var(--amber);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+}
+.stat-block .label {
+  color: var(--muted);
+  font-size: 0.85rem;
+  margin-top: 6px;
+}
+
+/* ---------- Section headers ---------- */
+.section {
+  padding: 44px 0;
+  border-bottom: 1px solid var(--line);
+}
+.section-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 16px;
+  margin-bottom: 22px;
+  flex-wrap: wrap;
+}
+.section-head h2 {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin: 0;
+}
+.section-head .sub { color: var(--muted); font-size: 0.92rem; }
+
+/* ---------- Match rows (Inicio) ---------- */
+.competition-group { margin-bottom: 30px; }
+.competition-title {
+  font-size: 0.85rem;
+  color: var(--amber);
+  text-transform: none;
+  letter-spacing: 0.02em;
+  margin: 0 0 8px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+.match-row {
+  display: grid;
+  grid-template-columns: 90px 1fr auto;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 4px;
+  border-bottom: 1px solid var(--line);
+}
+.match-row:last-child { border-bottom: none; }
+
+.match-time { color: var(--muted); font-variant-numeric: tabular-nums; font-size: 0.92rem; }
+.match-status { color: var(--amber); font-size: 0.8rem; }
+
+.match-teams { display: flex; flex-direction: column; gap: 3px; }
+.match-teams .team { font-size: 1rem; }
+.match-teams .team.winner { color: var(--amber); }
+.match-score {
+  font-variant-numeric: tabular-nums;
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  color: var(--chalk-dim);
+  min-width: 2.6em;
+}
+
+.odds-strip { display: flex; gap: 8px; }
+.odds-chip {
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  padding: 5px 9px;
+  font-size: 0.85rem;
+  text-align: center;
+  min-width: 46px;
+  font-variant-numeric: tabular-nums;
+}
+.odds-chip .k { display: block; color: var(--muted); font-size: 0.68rem; }
+
+/* ---------- Picks / value bets ---------- */
+.pick-card {
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius);
+  background: var(--bg-raised);
+  padding: 20px 22px;
+  margin-bottom: 16px;
+}
+.pick-card-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-bottom: 12px;
+}
+.pick-teams { font-family: var(--font-display); font-size: 1.15rem; }
+.pick-league { color: var(--muted); font-size: 0.8rem; margin-top: 2px; }
+
+.ev-badge {
+  font-variant-numeric: tabular-nums;
+  border-radius: var(--radius);
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.ev-badge.positive { background: rgba(201,162,39,0.14); color: var(--amber); border: 1px solid var(--amber-dim); }
+.ev-badge.negative { background: rgba(181,83,60,0.14); color: var(--brick); border: 1px solid var(--brick-dim); }
+
+.pick-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+  gap: 14px;
+  margin: 14px 0;
+  padding: 14px 0;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+.pick-grid .metric .v {
+  font-variant-numeric: tabular-nums;
+  font-size: 1.05rem;
+  color: var(--chalk);
+}
+.pick-grid .metric .l {
+  color: var(--muted);
+  font-size: 0.76rem;
+  margin-top: 3px;
+}
+
+.stake-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-top: 14px;
+}
+.stake-row label { color: var(--chalk-dim); font-size: 0.88rem; }
+.stake-row input[type="number"] {
+  background: var(--bg);
+  border: 1px solid var(--line-strong);
+  color: var(--chalk);
+  padding: 8px 10px;
+  border-radius: var(--radius);
+  width: 100px;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.95rem;
+}
+
+.btn {
+  border: 1px solid var(--amber-dim);
+  background: transparent;
+  color: var(--amber);
+  padding: 8px 16px;
+  border-radius: var(--radius);
+  font-size: 0.88rem;
+  cursor: pointer;
+  font-family: var(--font-body);
+}
+.btn:hover { background: rgba(201,162,39,0.12); }
+.btn.ghost { border-color: var(--line-strong); color: var(--chalk-dim); }
+.btn.ghost:hover { border-color: var(--muted); color: var(--chalk); }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+
+/* ---------- Tables ---------- */
+table.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+}
+table.data-table caption { text-align: left; color: var(--muted); margin-bottom: 8px; font-size: 0.85rem; }
+table.data-table th, table.data-table td {
+  text-align: left;
+  padding: 10px 8px;
+  border-bottom: 1px solid var(--line);
+  font-variant-numeric: tabular-nums;
+}
+table.data-table th {
+  color: var(--muted);
+  font-weight: 500;
+  font-size: 0.78rem;
+}
+table.data-table tr:hover td { background: rgba(255,255,255,0.02); }
+.pos { color: var(--amber); }
+.neg { color: var(--brick); }
+
+/* ---------- Cards / method blocks ---------- */
+.method-card {
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 22px 24px;
+}
+.method-card h3 { font-family: var(--font-display); font-weight: 600; margin-top: 0; }
+.method-card .formula {
+  background: var(--bg);
+  border-left: 3px solid var(--amber-dim);
+  padding: 10px 14px;
+  margin: 12px 0;
+  font-size: 0.9rem;
+  overflow-x: auto;
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+@media (max-width: 720px) {
+  .two-col { grid-template-columns: 1fr; }
+  .match-row { grid-template-columns: 1fr; }
+  .odds-strip { justify-content: flex-start; }
+}
+
+/* ---------- Chart containers ---------- */
+.chart-box {
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 20px;
+  margin-bottom: 24px;
+}
+.chart-box h3 { margin-top: 0; font-family: var(--font-display); font-weight: 600; font-size: 1.1rem; }
+.chart-box canvas { max-height: 320px; }
+
+/* ---------- Empty / loading states ---------- */
+.empty-state {
+  color: var(--muted);
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--radius);
+  padding: 26px;
+  text-align: center;
+}
+.state-msg { color: var(--muted); font-size: 0.9rem; padding: 10px 0; }
+
+/* ---------- Balance ticker (historial) ---------- */
+.balance-hero {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+  padding: 24px 0;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  border-top: 1px solid var(--line);
+  padding: 32px 0 48px;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+.site-footer .legal {
+  max-width: 70ch;
+  margin-bottom: 10px;
+}
+.site-footer .legal strong { color: var(--brick); }
+
+/* ---------- Utility ---------- */
+.mt-0 { margin-top: 0; }
+.text-muted { color: var(--muted); }
+.small { font-size: 0.85rem; }

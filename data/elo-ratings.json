@@ -1,0 +1,55 @@
+{
+  "generatedAt": "2026-09-01T19:21:59.241Z",
+  "ratings": {
+    "PL": {
+      "Northgate United": 1491.0120005377769,
+      "Ashfield City": 1494.4128545234898,
+      "Redbrook Athletic": 1523.9451239643074,
+      "Millhaven FC": 1511.2261699218725,
+      "Sancroft Town": 1482.691034589507,
+      "Eastwick Rovers": 1506.466108293077,
+      "Barrowmere FC": 1519.0510386108208,
+      "Kingswell United": 1471.1956695591487
+    },
+    "PD": {
+      "Costa Rojiblanca": 1438.0196387182073,
+      "Atlético Vallenorte": 1500.0681947614473,
+      "Real Sierraverde": 1480.4366039563527,
+      "Unión Puertosol": 1510.5140634745208,
+      "Deportivo Altamira": 1518.2247237553117,
+      "CD Marisma": 1518.435829139655,
+      "Real Peñablanca": 1517.436363584252,
+      "Atlético Riofrío": 1516.8645826102534
+    },
+    "SA": {
+      "Nerocelesti Torino": 1495.2995888706694,
+      "Rossoblù Marina": 1488.088668033598,
+      "Biancoverde Colle": 1452.9624692849327,
+      "Azzurra Portofino": 1510.4103036021875,
+      "Granata Volterra": 1540.294975964902,
+      "Giallorossi Estense": 1515.7785366381818,
+      "Viola Serrano": 1504.4646044558044,
+      "Bianconeri Adriano": 1492.7008531497243
+    },
+    "BL1": {
+      "SV Nordfeld": 1470.524969471175,
+      "Rheinstern 04": 1478.9788475710689,
+      "Blau-Weiss Auental": 1537.2261809260642,
+      "Grün-Gold Marktheim": 1489.700839781354,
+      "FC Waldkirchen": 1494.2745284225405,
+      "TSV Bergwehr": 1529.682075412878,
+      "Rot-Weiss Dornfeld": 1494.3052504849782,
+      "SC Lindenau": 1505.3073079299413
+    },
+    "FL1": {
+      "AS Portblanc": 1527.5999742722988,
+      "Olympique Vercours": 1483.7682104315754,
+      "Stade Belleroche": 1502.1553447701813,
+      "RC Nordval": 1476.2696381748603,
+      "FC Sablons": 1517.1430365395638,
+      "AJ Montrouvre": 1494.1696420112553,
+      "US Clairefosse": 1505.553024608519,
+      "Racing Aubépierre": 1493.341129191746
+    }
+  }
+}

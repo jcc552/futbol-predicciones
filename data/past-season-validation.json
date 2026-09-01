@@ -1,0 +1,3970 @@
+{
+  "generatedAt": "2026-09-01T19:21:59.241Z",
+  "bySeason": [
+    {
+      "competition": "PL",
+      "seasonLabel": "temporada de ejemplo",
+      "accuracy": 0.358695652173913,
+      "roi": 0.02,
+      "sampleSize": 92,
+      "matches": [
+        {
+          "date": "2025-11-05T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-08T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-11T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2025-11-14T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-17T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-20T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-23T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-26T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Northgate United",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-29T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-02T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-05T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-08T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-11T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-12-14T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-17T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-20T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-23T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-26T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-29T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-01T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-04T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-07T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-10T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-13T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-16T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-19T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-22T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-25T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-28T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-31T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-03T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-06T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-09T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-12T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-15T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-18T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-21T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-24T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-02-27T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-02T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-03-05T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-08T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-03-11T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-03-14T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-03-17T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-20T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-23T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-26T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-29T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-01T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Northgate United",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-04T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-07T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 4,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-10T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-13T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-16T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-19T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-22T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Northgate United",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-25T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Northgate United",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-04-28T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Northgate United",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-01T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-04T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-07T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Northgate United",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-05-10T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Northgate United",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-13T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-16T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-19T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-22T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-25T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-28T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-31T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Ashfield City",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-03T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-06T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-09T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-12T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-15T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-18T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-21T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Redbrook Athletic",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-24T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-27T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-30T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-07-03T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-06T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-09T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 5,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-12T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Millhaven FC",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-15T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-18T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-21T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-24T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-27T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-30T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 4,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-02T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Sancroft Town",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-05T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-08T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-11T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-14T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-17T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-20T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-23T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Eastwick Rovers",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-26T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-29T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-01T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-04T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-07T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-10T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-13T19:21:59.110Z",
+          "homeTeam": "Kingswell United",
+          "awayTeam": "Barrowmere FC",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-09-16T19:21:59.110Z",
+          "homeTeam": "Northgate United",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-19T19:21:59.110Z",
+          "homeTeam": "Ashfield City",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-22T19:21:59.110Z",
+          "homeTeam": "Redbrook Athletic",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-25T19:21:59.110Z",
+          "homeTeam": "Millhaven FC",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-28T19:21:59.110Z",
+          "homeTeam": "Sancroft Town",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-10-01T19:21:59.110Z",
+          "homeTeam": "Eastwick Rovers",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-10-04T19:21:59.110Z",
+          "homeTeam": "Barrowmere FC",
+          "awayTeam": "Kingswell United",
+          "homeGoals": 1,
+          "awayGoals": 2
+        }
+      ]
+    },
+    {
+      "competition": "PD",
+      "seasonLabel": "temporada de ejemplo",
+      "accuracy": 0.3695652173913043,
+      "roi": 0.02,
+      "sampleSize": 92,
+      "matches": [
+        {
+          "date": "2025-11-05T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-08T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-11T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-14T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-17T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-20T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-23T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-26T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-29T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-02T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-05T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-08T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-11T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 4,
+          "awayGoals": 5
+        },
+        {
+          "date": "2025-12-14T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-17T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 3,
+          "awayGoals": 4
+        },
+        {
+          "date": "2025-12-20T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-23T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-26T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-29T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-01T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-04T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-07T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-10T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-13T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 2,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-01-16T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-19T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-22T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-25T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-28T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-31T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-03T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-06T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-09T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-12T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-15T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-18T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-21T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-24T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-27T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-03-02T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-05T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-08T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-11T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-14T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-17T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-20T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-23T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-26T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-29T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-01T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-04T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-07T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-10T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-13T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-16T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-19T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-22T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-25T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-28T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-01T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-04T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-07T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-10T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Costa Rojiblanca",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-13T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-16T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-19T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-22T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-25T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-28T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-31T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Atlético Vallenorte",
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-03T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-06T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-09T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-12T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-15T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-18T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-21T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Real Sierraverde",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-24T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-27T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-30T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-03T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-06T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-09T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-12T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Unión Puertosol",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-15T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-18T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-21T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-24T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-27T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-30T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-02T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Deportivo Altamira",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-05T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-08T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 0,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-08-11T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-14T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-17T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-20T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-23T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "CD Marisma",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-26T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-08-29T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-01T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-04T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-07T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-10T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-13T19:21:59.110Z",
+          "homeTeam": "Atlético Riofrío",
+          "awayTeam": "Real Peñablanca",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-16T19:21:59.110Z",
+          "homeTeam": "Costa Rojiblanca",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-19T19:21:59.110Z",
+          "homeTeam": "Atlético Vallenorte",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-22T19:21:59.110Z",
+          "homeTeam": "Real Sierraverde",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-25T19:21:59.110Z",
+          "homeTeam": "Unión Puertosol",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-28T19:21:59.110Z",
+          "homeTeam": "Deportivo Altamira",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-10-01T19:21:59.110Z",
+          "homeTeam": "CD Marisma",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-10-04T19:21:59.110Z",
+          "homeTeam": "Real Peñablanca",
+          "awayTeam": "Atlético Riofrío",
+          "homeGoals": 0,
+          "awayGoals": 0
+        }
+      ]
+    },
+    {
+      "competition": "SA",
+      "seasonLabel": "temporada de ejemplo",
+      "accuracy": 0.42391304347826086,
+      "roi": 0.02,
+      "sampleSize": 92,
+      "matches": [
+        {
+          "date": "2025-11-05T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-08T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-11T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-14T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-11-17T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-11-20T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 2,
+          "awayGoals": 5
+        },
+        {
+          "date": "2025-11-23T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-26T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-29T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-02T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-05T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-08T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-11T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-14T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-17T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-20T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-23T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-26T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-29T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-01T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-04T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-07T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-10T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-13T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-16T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-19T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-22T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-25T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-28T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-01-31T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-03T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-06T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 5,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-09T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-12T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 0,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-02-15T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-18T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-21T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-24T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-27T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-02T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-03-05T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-08T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-03-11T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-03-14T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-17T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-20T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-23T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-26T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-29T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-01T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-04T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-07T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-10T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-13T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-16T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-19T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-22T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-25T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-28T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-01T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-04T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-07T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-10T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Nerocelesti Torino",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-13T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-05-16T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-19T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-22T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-25T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-28T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-31T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Rossoblù Marina",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-03T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-06T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-09T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-12T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-15T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-18T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-21T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Biancoverde Colle",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-24T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-27T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-30T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-03T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-07-06T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 4,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-07-09T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-12T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Azzurra Portofino",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-15T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-18T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-21T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-24T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-27T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-30T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 5,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-08-02T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Granata Volterra",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-05T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-08T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-11T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-14T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-17T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-20T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-23T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Giallorossi Estense",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-26T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-29T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-01T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-04T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-07T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-10T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-13T19:21:59.110Z",
+          "homeTeam": "Bianconeri Adriano",
+          "awayTeam": "Viola Serrano",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-16T19:21:59.110Z",
+          "homeTeam": "Nerocelesti Torino",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-19T19:21:59.110Z",
+          "homeTeam": "Rossoblù Marina",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-22T19:21:59.110Z",
+          "homeTeam": "Biancoverde Colle",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-25T19:21:59.110Z",
+          "homeTeam": "Azzurra Portofino",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 3,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-09-28T19:21:59.110Z",
+          "homeTeam": "Granata Volterra",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-10-01T19:21:59.110Z",
+          "homeTeam": "Giallorossi Estense",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-10-04T19:21:59.110Z",
+          "homeTeam": "Viola Serrano",
+          "awayTeam": "Bianconeri Adriano",
+          "homeGoals": 3,
+          "awayGoals": 2
+        }
+      ]
+    },
+    {
+      "competition": "BL1",
+      "seasonLabel": "temporada de ejemplo",
+      "accuracy": 0.31521739130434784,
+      "roi": 0.02,
+      "sampleSize": 92,
+      "matches": [
+        {
+          "date": "2025-11-05T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-08T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-11-11T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-11-14T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-17T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-20T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-23T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-26T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-29T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-02T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-05T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-08T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-11T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-12-14T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2025-12-17T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-20T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-23T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-12-26T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-29T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-01T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-01-04T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-07T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-10T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-13T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-16T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-19T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-22T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-25T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-28T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-31T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-03T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-06T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-09T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-02-12T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-15T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-18T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-21T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-24T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-27T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-02T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-05T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-08T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-11T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 3,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-03-14T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-17T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-20T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-23T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-26T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-29T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-01T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-04T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-07T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-10T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-13T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 4,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-16T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-19T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-22T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-04-25T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-04-28T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-01T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-04T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-07T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-10T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "SV Nordfeld",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-13T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 0,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-05-16T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 3,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-05-19T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-22T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 3,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-05-25T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-28T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-31T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Rheinstern 04",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-06-03T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-06T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-09T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-12T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-15T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-18T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-21T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Blau-Weiss Auental",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-24T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-27T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-30T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-03T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-06T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-09T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-12T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Grün-Gold Marktheim",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-15T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-18T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 4,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-21T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-24T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-27T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-30T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-02T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "FC Waldkirchen",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-05T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-08T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-08-11T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-08-14T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-17T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-20T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-23T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "TSV Bergwehr",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-26T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-29T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-01T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-04T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-07T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-10T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-13T19:21:59.110Z",
+          "homeTeam": "SC Lindenau",
+          "awayTeam": "Rot-Weiss Dornfeld",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-16T19:21:59.110Z",
+          "homeTeam": "SV Nordfeld",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 5,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-09-19T19:21:59.110Z",
+          "homeTeam": "Rheinstern 04",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-22T19:21:59.110Z",
+          "homeTeam": "Blau-Weiss Auental",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-09-25T19:21:59.110Z",
+          "homeTeam": "Grün-Gold Marktheim",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-28T19:21:59.110Z",
+          "homeTeam": "FC Waldkirchen",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-10-01T19:21:59.110Z",
+          "homeTeam": "TSV Bergwehr",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-10-04T19:21:59.110Z",
+          "homeTeam": "Rot-Weiss Dornfeld",
+          "awayTeam": "SC Lindenau",
+          "homeGoals": 2,
+          "awayGoals": 2
+        }
+      ]
+    },
+    {
+      "competition": "FL1",
+      "seasonLabel": "temporada de ejemplo",
+      "accuracy": 0.3804347826086957,
+      "roi": 0.02,
+      "sampleSize": 92,
+      "matches": [
+        {
+          "date": "2025-11-05T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-11-08T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-11T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-11-14T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-17T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 0,
+          "awayGoals": 4
+        },
+        {
+          "date": "2025-11-20T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-23T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 5
+        },
+        {
+          "date": "2025-11-26T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-11-29T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-02T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-12-05T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2025-12-08T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-11T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-14T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2025-12-17T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2025-12-20T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-23T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2025-12-26T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2025-12-29T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-01T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-01-04T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-07T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 5,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-10T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-01-13T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-16T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 4,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-01-19T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-22T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-01-25T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-01-28T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-01-31T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-03T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-06T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-09T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-12T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-15T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-02-18T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-21T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-02-24T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-02-27T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-02T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-05T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-08T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-11T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-03-14T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-17T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-03-20T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-03-23T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-26T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-03-29T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-01T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-04T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-04-07T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-10T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-04-13T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-16T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-04-19T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-22T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 3,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-04-25T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-04-28T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-01T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-04T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 2,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-07T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 1,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-05-10T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "AS Portblanc",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-13T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 4,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-16T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 3,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-05-19T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 4,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-05-22T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-05-25T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 2,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-28T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-05-31T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "Olympique Vercours",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-03T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-06T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 3,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-06-09T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-12T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-15T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-18T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-06-21T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "Stade Belleroche",
+          "homeGoals": 2,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-06-24T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-06-27T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-06-30T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-03T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-06T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 2,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-07-09T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-12T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "RC Nordval",
+          "homeGoals": 4,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-15T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 4,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-18T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-07-21T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-07-24T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-27T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-07-30T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-02T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "FC Sablons",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-05T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-08T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 1,
+          "awayGoals": 4
+        },
+        {
+          "date": "2026-08-11T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 1,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-14T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 2,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-08-17T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-20T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-08-23T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "AJ Montrouvre",
+          "homeGoals": 2,
+          "awayGoals": 5
+        },
+        {
+          "date": "2026-08-26T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-08-29T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-01T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 1,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-04T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-07T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 3
+        },
+        {
+          "date": "2026-09-10T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-13T19:21:59.110Z",
+          "homeTeam": "Racing Aubépierre",
+          "awayTeam": "US Clairefosse",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-16T19:21:59.110Z",
+          "homeTeam": "AS Portblanc",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 1,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-19T19:21:59.110Z",
+          "homeTeam": "Olympique Vercours",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 5,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-09-22T19:21:59.110Z",
+          "homeTeam": "Stade Belleroche",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 0,
+          "awayGoals": 0
+        },
+        {
+          "date": "2026-09-25T19:21:59.110Z",
+          "homeTeam": "RC Nordval",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 0,
+          "awayGoals": 2
+        },
+        {
+          "date": "2026-09-28T19:21:59.110Z",
+          "homeTeam": "FC Sablons",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 0,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-10-01T19:21:59.110Z",
+          "homeTeam": "AJ Montrouvre",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 3,
+          "awayGoals": 1
+        },
+        {
+          "date": "2026-10-04T19:21:59.110Z",
+          "homeTeam": "US Clairefosse",
+          "awayTeam": "Racing Aubépierre",
+          "homeGoals": 3,
+          "awayGoals": 3
+        }
+      ]
+    }
+  ]
+}

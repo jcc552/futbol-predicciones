@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Inicio — Predicción &amp; Análisis de Fútbol</title>
+<meta name="description" content="Panel diario de partidos, predicciones Poisson+Elo y picks de valor. Proyecto académico, sin dinero real." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,500;0,600;1,500&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+<a class="skip-link" href="#main">Ir al contenido</a>
+
+<div class="disclaimer">
+  <strong>Proyecto educativo</strong> — sin apuestas ni dinero real. Todo el saldo es virtual y con fines de análisis estadístico.
+</div>
+
+<header class="site-header">
+  <div class="container">
+    <a class="brand" href="index.html"><span class="brand-mark">λ</span> Predicción &amp; Análisis</a>
+    <nav class="main-nav" aria-label="Navegación principal">
+      <a href="index.html" aria-current="page">Inicio</a>
+      <a href="picks.html">Picks del día</a>
+      <a href="analysis.html">Análisis y fiabilidad</a>
+      <a href="history.html">Historial</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="container">
+      <p class="hero-kicker" id="updated-at">Cargando datos…</p>
+      <h1>Lo que dicen los goles esperados, no lo que dice el corazón.</h1>
+      <p class="lede">
+        Cada partido del día, con su predicción calculada mediante un modelo de
+        distribución de Poisson ajustado por rating Elo, forma reciente y
+        enfrentamientos directos. Consulta el <a href="analysis.html">rigor del modelo</a>
+        antes de fiarte de él.
+      </p>
+
+      <div class="hero-stats">
+        <div class="stat-block"><div class="num" id="stat-scheduled">—</div><div class="label">Partidos por jugar</div></div>
+        <div class="stat-block"><div class="num" id="stat-finished">—</div><div class="label">Finalizados hoy</div></div>
+        <div class="stat-block"><div class="num" id="stat-competitions">—</div><div class="label">Competiciones</div></div>
+        <div class="stat-block"><div class="num" id="stat-balance">—</div><div class="label">Saldo virtual</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head">
+        <h2>Partidos de hoy</h2>
+        <span class="sub">Agrupados por competición</span>
+      </div>
+      <div id="matches-container"></div>
+      <div id="matches-empty" class="empty-state" style="display:none;">
+        No hay partidos programados para hoy en las competiciones cubiertas, o los datos aún no se han generado.
+        Revisa <code>data/matches-today.json</code> o espera a la próxima ejecución del workflow diario.
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p class="legal"><strong>Aviso legal:</strong> esta web es un proyecto académico de Ingeniería Informática.
+    No gestiona dinero real, no está afiliada a ninguna casa de apuestas y no debe interpretarse como
+    recomendación de apuestas reales. El saldo y las apuestas son simulados con fines de evaluación estadística.</p>
+    <p>Datos: football-data.org (plan gratuito). Modelo: Poisson + Elo. Ver <a href="README.md">metodología completa</a>.</p>
+  </div>
+</footer>
+
+<script src="js/config.js"></script>
+<script src="js/data.js"></script>
+<script src="js/storage.js"></script>
+<script src="js/home.js"></script>
+</body>
+</html>
