@@ -1,4 +1,25 @@
 {
-  "generatedAt": "2026-09-02T10:18:30.992Z",
-  "matches": []
+  "generatedAt": "2026-09-03T10:28:30.271Z",
+  "matches": [
+    {
+      "id": 564682,
+      "competition": "PD",
+      "utcDate": "2026-09-03T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Real Sociedad de Fútbol",
+      "awayTeam": "RC Celta de Vigo",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559696,
+      "competition": "FL1",
+      "utcDate": "2026-09-03T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Toulouse FC",
+      "awayTeam": "Lille OSC",
+      "score": null,
+      "odds": null
+    }
+  ]
 }
