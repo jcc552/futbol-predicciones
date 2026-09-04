@@ -1,23 +1,63 @@
 {
-  "generatedAt": "2026-09-03T10:28:30.271Z",
+  "generatedAt": "2026-09-04T10:16:16.715Z",
   "matches": [
     {
-      "id": 564682,
-      "competition": "PD",
-      "utcDate": "2026-09-03T19:00:00Z",
+      "id": 560566,
+      "competition": "PL",
+      "utcDate": "2026-09-04T19:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Real Sociedad de Fútbol",
-      "awayTeam": "RC Celta de Vigo",
+      "homeTeam": "Ipswich Town FC",
+      "awayTeam": "Liverpool FC",
       "score": null,
       "odds": null
     },
     {
-      "id": 559696,
-      "competition": "FL1",
-      "utcDate": "2026-09-03T18:45:00Z",
+      "id": 564667,
+      "competition": "PD",
+      "utcDate": "2026-09-04T19:00:00Z",
+      "status": "2026-09-04 18:00:00Z",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Real Madrid CF",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558609,
+      "competition": "SA",
+      "utcDate": "2026-09-04T18:45:00Z",
       "status": "TIMED",
-      "homeTeam": "Toulouse FC",
-      "awayTeam": "Lille OSC",
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "Como 1907",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565791,
+      "competition": "BL1",
+      "utcDate": "2026-09-04T18:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "1. FC Köln",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559699,
+      "competition": "FL1",
+      "utcDate": "2026-09-04T17:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "AJ Auxerre",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559697,
+      "competition": "FL1",
+      "utcDate": "2026-09-04T19:05:00Z",
+      "status": "TIMED",
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "AS Monaco FC",
       "score": null,
       "odds": null
     }
