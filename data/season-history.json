@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T10:16:14.702Z",
+  "generatedAt": "2026-09-05T09:44:14.767Z",
   "matches": [
     {
       "competition": "PL",
@@ -160,6 +160,14 @@
       "awayTeam": "Arsenal FC",
       "homeGoals": 0,
       "awayGoals": 1
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-04T19:00:00Z",
+      "homeTeam": "Ipswich Town FC",
+      "awayTeam": "Liverpool FC",
+      "homeGoals": 0,
+      "awayGoals": 2
     },
     {
       "competition": "PD",
@@ -402,6 +410,22 @@
       "awayGoals": 2
     },
     {
+      "competition": "PD",
+      "date": "2026-09-03T19:00:00Z",
+      "homeTeam": "Real Sociedad de Fútbol",
+      "awayTeam": "RC Celta de Vigo",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-04T19:00:00Z",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Real Madrid CF",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -562,6 +586,14 @@
       "awayGoals": 0
     },
     {
+      "competition": "SA",
+      "date": "2026-09-04T18:45:00Z",
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "Como 1907",
+      "homeGoals": 1,
+      "awayGoals": 4
+    },
+    {
       "competition": "BL1",
       "date": "2026-08-28T18:30:00Z",
       "homeTeam": "FC Bayern München",
@@ -632,6 +664,14 @@
       "awayTeam": "FC Schalke 04",
       "homeGoals": 3,
       "awayGoals": 0
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-04T18:30:00Z",
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "1. FC Köln",
+      "homeGoals": 4,
+      "awayGoals": 1
     },
     {
       "competition": "FL1",
@@ -784,6 +824,22 @@
       "awayTeam": "Lille OSC",
       "homeGoals": 0,
       "awayGoals": 1
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-04T17:00:00Z",
+      "homeTeam": "Olympique Lyonnais",
+      "awayTeam": "AJ Auxerre",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-04T19:05:00Z",
+      "homeTeam": "Paris Saint-Germain FC",
+      "awayTeam": "AS Monaco FC",
+      "homeGoals": 1,
+      "awayGoals": 2
     }
   ]
 }
