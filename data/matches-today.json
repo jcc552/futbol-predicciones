@@ -1,153 +1,43 @@
 {
-  "generatedAt": "2026-09-06T09:59:51.660Z",
+  "generatedAt": "2026-09-07T11:11:35.734Z",
   "matches": [
     {
-      "id": 560567,
-      "competition": "PL",
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Everton FC",
-      "awayTeam": "Manchester United FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 560570,
-      "competition": "PL",
-      "utcDate": "2026-09-06T15:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Arsenal FC",
-      "awayTeam": "Chelsea FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564659,
+      "id": 564665,
       "competition": "PD",
-      "utcDate": "2026-09-06T14:15:00Z",
+      "utcDate": "2026-09-07T17:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Valencia CF",
-      "awayTeam": "FC Barcelona",
+      "homeTeam": "Getafe CF",
+      "awayTeam": "RC Celta de Vigo",
       "score": null,
       "odds": null
     },
     {
-      "id": 564664,
+      "id": 564658,
       "competition": "PD",
-      "utcDate": "2026-09-06T16:30:00Z",
+      "utcDate": "2026-09-07T19:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Deportivo Alavés",
-      "awayTeam": "CA Osasuna",
+      "homeTeam": "Elche CF",
+      "awayTeam": "Real Sociedad de Fútbol",
       "score": null,
       "odds": null
     },
     {
-      "id": 564666,
-      "competition": "PD",
-      "utcDate": "2026-09-06T16:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Málaga CF",
-      "awayTeam": "Levante UD",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564661,
-      "competition": "PD",
-      "utcDate": "2026-09-06T19:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "RCD Espanyol de Barcelona",
-      "awayTeam": "Sevilla FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558612,
+      "id": 558610,
       "competition": "SA",
-      "utcDate": "2026-09-06T13:00:00Z",
+      "utcDate": "2026-09-07T16:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Parma Calcio 1913",
-      "awayTeam": "AC Monza",
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "US Lecce",
       "score": null,
       "odds": null
     },
     {
-      "id": 558615,
+      "id": 558617,
       "competition": "SA",
-      "utcDate": "2026-09-06T13:00:00Z",
+      "utcDate": "2026-09-07T18:45:00Z",
       "status": "TIMED",
-      "homeTeam": "Frosinone Calcio",
-      "awayTeam": "Venezia FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558613,
-      "competition": "SA",
-      "utcDate": "2026-09-06T16:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Bologna FC 1909",
-      "awayTeam": "US Sassuolo Calcio",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558618,
-      "competition": "SA",
-      "utcDate": "2026-09-06T18:45:00Z",
-      "status": "TIMED",
-      "homeTeam": "Juventus FC",
-      "awayTeam": "AC Milan",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 565788,
-      "competition": "BL1",
-      "utcDate": "2026-09-06T13:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Hamburger SV",
-      "awayTeam": "1. FSV Mainz 05",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 565786,
-      "competition": "BL1",
-      "utcDate": "2026-09-06T15:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "FC Augsburg",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 559700,
-      "competition": "FL1",
-      "utcDate": "2026-09-06T13:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "ES Troyes AC",
-      "awayTeam": "RC Strasbourg Alsace",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 559698,
-      "competition": "FL1",
-      "utcDate": "2026-09-06T15:15:00Z",
-      "status": "TIMED",
-      "homeTeam": "Angers SCO",
-      "awayTeam": "Stade Rennais FC 1901",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 559694,
-      "competition": "FL1",
-      "utcDate": "2026-09-06T18:45:00Z",
-      "status": "TIMED",
-      "homeTeam": "Olympique de Marseille",
-      "awayTeam": "Paris FC",
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "SS Lazio",
       "score": null,
       "odds": null
     }
