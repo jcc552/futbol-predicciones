@@ -1,45 +1,4 @@
 {
-  "generatedAt": "2026-09-07T11:11:35.734Z",
-  "matches": [
-    {
-      "id": 564665,
-      "competition": "PD",
-      "utcDate": "2026-09-07T17:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Getafe CF",
-      "awayTeam": "RC Celta de Vigo",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564658,
-      "competition": "PD",
-      "utcDate": "2026-09-07T19:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Elche CF",
-      "awayTeam": "Real Sociedad de Fútbol",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558610,
-      "competition": "SA",
-      "utcDate": "2026-09-07T16:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Cagliari Calcio",
-      "awayTeam": "US Lecce",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558617,
-      "competition": "SA",
-      "utcDate": "2026-09-07T18:45:00Z",
-      "status": "TIMED",
-      "homeTeam": "Udinese Calcio",
-      "awayTeam": "SS Lazio",
-      "score": null,
-      "odds": null
-    }
-  ]
+  "generatedAt": "2026-09-08T10:22:06.124Z",
+  "matches": []
 }

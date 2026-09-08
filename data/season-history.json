@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:11:34.575Z",
+  "generatedAt": "2026-09-08T10:22:03.492Z",
   "matches": [
     {
       "competition": "PL",
@@ -554,6 +554,22 @@
       "awayGoals": 1
     },
     {
+      "competition": "PD",
+      "date": "2026-09-07T17:00:00Z",
+      "homeTeam": "Getafe CF",
+      "awayTeam": "RC Celta de Vigo",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-07T19:30:00Z",
+      "homeTeam": "Elche CF",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -776,6 +792,22 @@
       "awayTeam": "AC Milan",
       "homeGoals": 1,
       "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-07T16:30:00Z",
+      "homeTeam": "Cagliari Calcio",
+      "awayTeam": "US Lecce",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-07T18:45:00Z",
+      "homeTeam": "Udinese Calcio",
+      "awayTeam": "SS Lazio",
+      "homeGoals": 1,
+      "awayGoals": 2
     },
     {
       "competition": "BL1",
