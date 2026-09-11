@@ -1,4 +1,45 @@
 {
-  "generatedAt": "2026-09-10T10:20:23.330Z",
-  "matches": []
+  "generatedAt": "2026-09-11T10:20:16.770Z",
+  "matches": [
+    {
+      "id": 564669,
+      "competition": "PD",
+      "utcDate": "2026-09-11T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Valencia CF",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558606,
+      "competition": "SA",
+      "utcDate": "2026-09-11T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "ACF Fiorentina",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565797,
+      "competition": "BL1",
+      "utcDate": "2026-09-11T18:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "FC Schalke 04",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559689,
+      "competition": "FL1",
+      "utcDate": "2026-09-11T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "Olympique de Marseille",
+      "score": null,
+      "odds": null
+    }
+  ]
 }
