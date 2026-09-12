@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:20:15.042Z",
+  "generatedAt": "2026-09-12T09:52:31.885Z",
   "ratings": {
     "PL": {
       "Arsenal FC": 1533.2930489722378,
@@ -26,7 +26,7 @@
     "PD": {
       "Deportivo Alavés": 1531.0019056947544,
       "Getafe CF": 1488.1646187373835,
-      "Sevilla FC": 1510.3203540663228,
+      "Sevilla FC": 1518.7198330048388,
       "Rayo Vallecano de Madrid": 1490.4085888539964,
       "Real Racing Club de Santander": 1487.1382618268858,
       "Villarreal CF": 1481.090079977251,
@@ -39,7 +39,7 @@
       "Real Betis Balompié": 1523.2044887727784,
       "Real Sociedad de Fútbol": 1502.3954095338033,
       "Athletic Club": 1502.6447870173631,
-      "Valencia CF": 1462.7656505876214,
+      "Valencia CF": 1454.3661716491054,
       "RC Celta de Vigo": 1478.6308439399509,
       "Real Madrid CF": 1521.7015676329252,
       "FC Barcelona": 1544.0651141184908,
@@ -56,7 +56,7 @@
       "Cagliari Calcio": 1509.8107151430704,
       "Frosinone Calcio": 1509.3170664546446,
       "Juventus FC": 1521.0205889969602,
-      "Venezia FC": 1467.747692829078,
+      "Venezia FC": 1453.4975705666816,
       "US Lecce": 1489.9146517193171,
       "Atalanta BC": 1509.3223799414627,
       "US Sassuolo Calcio": 1501.1334650556191,
@@ -65,7 +65,7 @@
       "Bologna FC 1909": 1475.523269017588,
       "SS Lazio": 1536.742368716052,
       "AS Roma": 1533.9169494090834,
-      "ACF Fiorentina": 1461.8199245217652
+      "ACF Fiorentina": 1476.0700467841616
     },
     "BL1": {
       "FC Bayern München": 1511.3270534776404,
@@ -74,7 +74,7 @@
       "Borussia Mönchengladbach": 1476.6729465223596,
       "1. FSV Mainz 05": 1511.7342670571184,
       "SC Paderborn 07": 1488.2657329428816,
-      "1. FC Union Berlin": 1487.7342670571184,
+      "1. FC Union Berlin": 1473.7137860908756,
       "Eintracht Frankfurt": 1488.2657329428816,
       "SV 07 Elversberg": 1523.3270534776404,
       "Bayer 04 Leverkusen": 1500.2657329428816,
@@ -85,10 +85,10 @@
       "SC Freiburg": 1523.7342670571184,
       "SV Werder Bremen": 1500.6729465223596,
       "FC Augsburg": 1523.7342670571184,
-      "FC Schalke 04": 1488.6729465223596
+      "FC Schalke 04": 1502.6934274886023
     },
     "FL1": {
-      "Olympique de Marseille": 1486.4806174517564,
+      "Olympique de Marseille": 1477.689019896873,
       "RC Strasbourg Alsace": 1515.1070074681982,
       "Racing Club de Lens": 1484.8929925318018,
       "AJ Auxerre": 1467.0711998888246,
@@ -104,7 +104,7 @@
       "Lille OSC": 1524.871084740368,
       "Le Havre AC": 1475.2305083539377,
       "AS Monaco FC": 1537.2600091699353,
-      "Stade Rennais FC 1901": 1521.6869361562224,
+      "Stade Rennais FC 1901": 1530.4785337111057,
       "Paris Saint-Germain FC": 1491.106436785575
     }
   }

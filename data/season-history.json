@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:20:15.039Z",
+  "generatedAt": "2026-09-12T09:52:31.883Z",
   "matches": [
     {
       "competition": "PL",
@@ -570,6 +570,14 @@
       "awayGoals": 3
     },
     {
+      "competition": "PD",
+      "date": "2026-09-11T19:00:00Z",
+      "homeTeam": "Sevilla FC",
+      "awayTeam": "Valencia CF",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -810,6 +818,14 @@
       "awayGoals": 2
     },
     {
+      "competition": "SA",
+      "date": "2026-09-11T18:45:00Z",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "ACF Fiorentina",
+      "homeGoals": 2,
+      "awayGoals": 4
+    },
+    {
       "competition": "BL1",
       "date": "2026-08-28T18:30:00Z",
       "homeTeam": "FC Bayern München",
@@ -952,6 +968,14 @@
       "awayTeam": "FC Augsburg",
       "homeGoals": 1,
       "awayGoals": 4
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-11T18:30:00Z",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "FC Schalke 04",
+      "homeGoals": 1,
+      "awayGoals": 3
     },
     {
       "competition": "FL1",
@@ -1168,6 +1192,14 @@
       "awayTeam": "Paris FC",
       "homeGoals": 2,
       "awayGoals": 3
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-11T18:45:00Z",
+      "homeTeam": "Stade Rennais FC 1901",
+      "awayTeam": "Olympique de Marseille",
+      "homeGoals": 1,
+      "awayGoals": 0
     }
   ]
 }

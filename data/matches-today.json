@@ -1,43 +1,253 @@
 {
-  "generatedAt": "2026-09-11T10:20:16.770Z",
+  "generatedAt": "2026-09-12T09:52:33.484Z",
   "matches": [
     {
-      "id": 564669,
+      "id": 560572,
+      "competition": "PL",
+      "utcDate": "2026-09-12T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Crystal Palace FC",
+      "awayTeam": "Ipswich Town FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560573,
+      "competition": "PL",
+      "utcDate": "2026-09-12T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Liverpool FC",
+      "awayTeam": "Fulham FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560574,
+      "competition": "PL",
+      "utcDate": "2026-09-12T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Aston Villa FC",
+      "awayTeam": "Nottingham Forest FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560576,
+      "competition": "PL",
+      "utcDate": "2026-09-12T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Brentford FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560581,
+      "competition": "PL",
+      "utcDate": "2026-09-12T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Chelsea FC",
+      "awayTeam": "Hull City AFC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560575,
+      "competition": "PL",
+      "utcDate": "2026-09-12T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Tottenham Hotspur FC",
+      "awayTeam": "Everton FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560577,
+      "competition": "PL",
+      "utcDate": "2026-09-12T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Sunderland AFC",
+      "awayTeam": "Arsenal FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564670,
       "competition": "PD",
-      "utcDate": "2026-09-11T19:00:00Z",
+      "utcDate": "2026-09-12T12:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Sevilla FC",
-      "awayTeam": "Valencia CF",
+      "homeTeam": "Real Racing Club de Santander",
+      "awayTeam": "Deportivo Alavés",
       "score": null,
       "odds": null
     },
     {
-      "id": 558606,
+      "id": 564673,
+      "competition": "PD",
+      "utcDate": "2026-09-12T14:15:00Z",
+      "status": "TIMED",
+      "homeTeam": "CA Osasuna",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564676,
+      "competition": "PD",
+      "utcDate": "2026-09-12T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Elche CF",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564677,
+      "competition": "PD",
+      "utcDate": "2026-09-12T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Real Madrid CF",
+      "awayTeam": "Rayo Vallecano de Madrid",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558604,
       "competition": "SA",
-      "utcDate": "2026-09-11T18:45:00Z",
+      "utcDate": "2026-09-12T13:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Venezia FC",
-      "awayTeam": "ACF Fiorentina",
+      "homeTeam": "Genoa CFC",
+      "awayTeam": "Frosinone Calcio",
       "score": null,
       "odds": null
     },
     {
-      "id": 565797,
+      "id": 558600,
+      "competition": "SA",
+      "utcDate": "2026-09-12T16:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "SS Lazio",
+      "awayTeam": "AC Milan",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558607,
+      "competition": "SA",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Atalanta BC",
+      "awayTeam": "Cagliari Calcio",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565794,
       "competition": "BL1",
-      "utcDate": "2026-09-11T18:30:00Z",
+      "utcDate": "2026-09-12T13:30:00Z",
       "status": "TIMED",
-      "homeTeam": "1. FC Union Berlin",
-      "awayTeam": "FC Schalke 04",
+      "homeTeam": "TSG 1899 Hoffenheim",
+      "awayTeam": "VfB Stuttgart",
       "score": null,
       "odds": null
     },
     {
-      "id": 559689,
-      "competition": "FL1",
-      "utcDate": "2026-09-11T18:45:00Z",
+      "id": 565795,
+      "competition": "BL1",
+      "utcDate": "2026-09-12T13:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Stade Rennais FC 1901",
-      "awayTeam": "Olympique de Marseille",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SC Paderborn 07",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565796,
+      "competition": "BL1",
+      "utcDate": "2026-09-12T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Bayer 04 Leverkusen",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565801,
+      "competition": "BL1",
+      "utcDate": "2026-09-12T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "1. FSV Mainz 05",
+      "awayTeam": "Eintracht Frankfurt",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565802,
+      "competition": "BL1",
+      "utcDate": "2026-09-12T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "SC Freiburg",
+      "awayTeam": "Borussia Mönchengladbach",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565798,
+      "competition": "BL1",
+      "utcDate": "2026-09-12T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "SV Werder Bremen",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559687,
+      "competition": "FL1",
+      "utcDate": "2026-09-12T15:15:00Z",
+      "status": "TIMED",
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "AS Monaco FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559684,
+      "competition": "FL1",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "FC Lorient",
+      "awayTeam": "Toulouse FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559688,
+      "competition": "FL1",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "OGC Nice",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559690,
+      "competition": "FL1",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Le Havre AC",
+      "awayTeam": "Angers SCO",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559692,
+      "competition": "FL1",
+      "utcDate": "2026-09-12T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Paris FC",
+      "awayTeam": "Olympique Lyonnais",
       "score": null,
       "odds": null
     }
