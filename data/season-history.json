@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T11:21:50.802Z",
+  "generatedAt": "2026-09-15T10:46:10.387Z",
   "matches": [
     {
       "competition": "PL",
@@ -311,6 +311,14 @@
       "homeTeam": "Manchester United FC",
       "awayTeam": "Manchester City FC",
       "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-14T19:00:00Z",
+      "homeTeam": "Leeds United FC",
+      "awayTeam": "Newcastle United FC",
+      "homeGoals": 4,
       "awayGoals": 1
     },
     {
@@ -714,6 +722,14 @@
       "awayGoals": 3
     },
     {
+      "competition": "PD",
+      "date": "2026-09-14T19:00:00Z",
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Real Betis Balompié",
+      "homeGoals": 1,
+      "awayGoals": 2
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -1008,6 +1024,30 @@
       "awayTeam": "Juventus FC",
       "homeGoals": 3,
       "awayGoals": 2
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-14T16:30:00Z",
+      "homeTeam": "Como 1907",
+      "awayTeam": "Parma Calcio 1913",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-14T16:30:00Z",
+      "homeTeam": "Torino FC",
+      "awayTeam": "AS Roma",
+      "homeGoals": 0,
+      "awayGoals": 2
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-14T18:45:00Z",
+      "homeTeam": "FC Internazionale Milano",
+      "awayTeam": "Udinese Calcio",
+      "homeGoals": 5,
+      "awayGoals": 3
     },
     {
       "competition": "BL1",

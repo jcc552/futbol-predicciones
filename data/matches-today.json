@@ -1,53 +1,33 @@
 {
-  "generatedAt": "2026-09-14T11:21:52.766Z",
+  "generatedAt": "2026-09-15T10:46:11.836Z",
   "matches": [
     {
-      "id": 560579,
-      "competition": "PL",
-      "utcDate": "2026-09-14T19:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Leeds United FC",
-      "awayTeam": "Newcastle United FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564671,
+      "id": 564678,
       "competition": "PD",
-      "utcDate": "2026-09-14T19:00:00Z",
+      "utcDate": "2026-09-15T17:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Villarreal CF",
-      "awayTeam": "Real Betis Balompié",
+      "homeTeam": "Rayo Vallecano de Madrid",
+      "awayTeam": "RCD Espanyol de Barcelona",
       "score": null,
       "odds": null
     },
     {
-      "id": 558602,
-      "competition": "SA",
-      "utcDate": "2026-09-14T16:30:00Z",
+      "id": 564680,
+      "competition": "PD",
+      "utcDate": "2026-09-15T18:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Como 1907",
-      "awayTeam": "Parma Calcio 1913",
+      "homeTeam": "Deportivo Alavés",
+      "awayTeam": "Valencia CF",
       "score": null,
       "odds": null
     },
     {
-      "id": 558603,
-      "competition": "SA",
-      "utcDate": "2026-09-14T16:30:00Z",
+      "id": 564681,
+      "competition": "PD",
+      "utcDate": "2026-09-15T19:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Torino FC",
-      "awayTeam": "AS Roma",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558601,
-      "competition": "SA",
-      "utcDate": "2026-09-14T18:45:00Z",
-      "status": "TIMED",
-      "homeTeam": "FC Internazionale Milano",
-      "awayTeam": "Udinese Calcio",
+      "homeTeam": "Elche CF",
+      "awayTeam": "Real Madrid CF",
       "score": null,
       "odds": null
     }
