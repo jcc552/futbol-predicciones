@@ -1,43 +1,23 @@
 {
-  "generatedAt": "2026-09-16T10:34:43.291Z",
+  "generatedAt": "2026-09-17T10:44:02.938Z",
   "matches": [
     {
-      "id": 564679,
+      "id": 564686,
       "competition": "PD",
-      "utcDate": "2026-09-16T17:00:00Z",
+      "utcDate": "2026-09-17T17:00:00Z",
       "status": "TIMED",
-      "homeTeam": "RC Deportivo La Coruña",
-      "awayTeam": "Sevilla FC",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Getafe CF",
       "score": null,
       "odds": null
     },
     {
-      "id": 564684,
+      "id": 564683,
       "competition": "PD",
-      "utcDate": "2026-09-16T17:00:00Z",
+      "utcDate": "2026-09-17T19:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Club Atlético de Madrid",
-      "awayTeam": "CA Osasuna",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564685,
-      "competition": "PD",
-      "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Levante UD",
-      "awayTeam": "Athletic Club",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564687,
-      "competition": "PD",
-      "utcDate": "2026-09-16T19:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "FC Barcelona",
-      "awayTeam": "Real Racing Club de Santander",
+      "homeTeam": "Málaga CF",
+      "awayTeam": "Villarreal CF",
       "score": null,
       "odds": null
     }

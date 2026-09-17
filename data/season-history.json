@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T10:34:41.868Z",
+  "generatedAt": "2026-09-17T10:44:00.663Z",
   "matches": [
     {
       "competition": "PL",
@@ -752,6 +752,30 @@
       "awayTeam": "Real Madrid CF",
       "homeGoals": 2,
       "awayGoals": 3
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-16T17:00:00Z",
+      "homeTeam": "RC Deportivo La Coruña",
+      "awayTeam": "Sevilla FC",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-16T17:00:00Z",
+      "homeTeam": "Club Atlético de Madrid",
+      "awayTeam": "CA Osasuna",
+      "homeGoals": 4,
+      "awayGoals": 0
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-16T19:30:00Z",
+      "homeTeam": "FC Barcelona",
+      "awayTeam": "Real Racing Club de Santander",
+      "homeGoals": 7,
+      "awayGoals": 2
     },
     {
       "competition": "SA",
