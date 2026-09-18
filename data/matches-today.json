@@ -1,23 +1,53 @@
 {
-  "generatedAt": "2026-09-17T10:44:02.938Z",
+  "generatedAt": "2026-09-18T10:19:35.905Z",
   "matches": [
     {
-      "id": 564686,
-      "competition": "PD",
-      "utcDate": "2026-09-17T17:00:00Z",
+      "id": 560591,
+      "competition": "PL",
+      "utcDate": "2026-09-18T19:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Real Betis Balompié",
-      "awayTeam": "Getafe CF",
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Chelsea FC",
       "score": null,
       "odds": null
     },
     {
-      "id": 564683,
+      "id": 564692,
       "competition": "PD",
-      "utcDate": "2026-09-17T19:30:00Z",
+      "utcDate": "2026-09-18T19:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Málaga CF",
-      "awayTeam": "Villarreal CF",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Elche CF",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558596,
+      "competition": "SA",
+      "utcDate": "2026-09-18T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "AC Monza",
+      "awayTeam": "US Sassuolo Calcio",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565804,
+      "competition": "BL1",
+      "utcDate": "2026-09-18T18:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "1. FC Union Berlin",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559682,
+      "competition": "FL1",
+      "utcDate": "2026-09-18T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Racing Club de Lens",
       "score": null,
       "odds": null
     }

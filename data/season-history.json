@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T10:44:00.663Z",
+  "generatedAt": "2026-09-18T10:19:34.375Z",
   "matches": [
     {
       "competition": "PL",
@@ -776,6 +776,22 @@
       "awayTeam": "Real Racing Club de Santander",
       "homeGoals": 7,
       "awayGoals": 2
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-17T17:00:00Z",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "Getafe CF",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-17T19:30:00Z",
+      "homeTeam": "Málaga CF",
+      "awayTeam": "Villarreal CF",
+      "homeGoals": 1,
+      "awayGoals": 3
     },
     {
       "competition": "SA",
