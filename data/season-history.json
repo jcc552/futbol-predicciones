@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:19:34.375Z",
+  "generatedAt": "2026-09-19T10:02:40.161Z",
   "matches": [
     {
       "competition": "PL",
@@ -320,6 +320,14 @@
       "awayTeam": "Newcastle United FC",
       "homeGoals": 4,
       "awayGoals": 1
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-18T19:00:00Z",
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Chelsea FC",
+      "homeGoals": 3,
+      "awayGoals": 0
     },
     {
       "competition": "PD",
@@ -794,6 +802,14 @@
       "awayGoals": 3
     },
     {
+      "competition": "PD",
+      "date": "2026-09-18T19:00:00Z",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Elche CF",
+      "homeGoals": 1,
+      "awayGoals": 3
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -1114,6 +1130,14 @@
       "awayGoals": 3
     },
     {
+      "competition": "SA",
+      "date": "2026-09-18T18:45:00Z",
+      "homeTeam": "AC Monza",
+      "awayTeam": "US Sassuolo Calcio",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
       "competition": "BL1",
       "date": "2026-08-28T18:30:00Z",
       "homeTeam": "FC Bayern München",
@@ -1328,6 +1352,14 @@
       "awayTeam": "FC Bayern München",
       "homeGoals": 1,
       "awayGoals": 2
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-18T18:30:00Z",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "1. FC Union Berlin",
+      "homeGoals": 7,
+      "awayGoals": 0
     },
     {
       "competition": "FL1",
@@ -1615,6 +1647,14 @@
       "homeTeam": "Stade Brestois 29",
       "awayTeam": "Paris Saint-Germain FC",
       "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-18T18:45:00Z",
+      "homeTeam": "AS Monaco FC",
+      "awayTeam": "Racing Club de Lens",
+      "homeGoals": 2,
       "awayGoals": 1
     }
   ]

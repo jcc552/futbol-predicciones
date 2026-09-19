@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:19:34.378Z",
+  "generatedAt": "2026-09-19T10:02:40.163Z",
   "ratings": {
     "PL": {
       "Arsenal FC": 1546.2934005314225,
@@ -12,7 +12,7 @@
       "Leeds United FC": 1523.3135215941636,
       "Everton FC": 1509.946804817685,
       "Crystal Palace FC": 1476.473512692185,
-      "Brentford FC": 1511.1136351206867,
+      "Brentford FC": 1521.0927974883139,
       "Tottenham Hotspur FC": 1477.6994827289438,
       "Manchester City FC": 1544.8338749318746,
       "AFC Bournemouth": 1490.0511478631445,
@@ -21,7 +21,7 @@
       "Newcastle United FC": 1499.1247258323242,
       "Liverpool FC": 1509.7907893801896,
       "Fulham FC": 1465.8245557788562,
-      "Chelsea FC": 1512.0416866940352
+      "Chelsea FC": 1502.062524326408
     },
     "PD": {
       "Deportivo Alavés": 1503.4127427445515,
@@ -30,10 +30,10 @@
       "Rayo Vallecano de Madrid": 1492.0254327078678,
       "Real Racing Club de Santander": 1490.5131246710744,
       "Villarreal CF": 1482.9189830944517,
-      "RCD Espanyol de Barcelona": 1488.3079443952938,
+      "RCD Espanyol de Barcelona": 1473.1830316023156,
       "Levante UD": 1491.9708147363765,
       "RC Deportivo La Coruña": 1509.392498499013,
-      "Elche CF": 1455.6998443407465,
+      "Elche CF": 1470.8247571337247,
       "Club Atlético de Madrid": 1533.9931303511523,
       "Málaga CF": 1465.8548785537018,
       "Real Betis Balompié": 1544.1904180351341,
@@ -49,7 +49,7 @@
       "Udinese Calcio": 1489.2729549549504,
       "Como 1907": 1537.3953826291308,
       "FC Internazionale Milano": 1542.0652960371262,
-      "AC Monza": 1468.7775973062826,
+      "AC Monza": 1480.1900979440961,
       "Genoa CFC": 1463.7083334728195,
       "SSC Napoli": 1499.9147521805403,
       "Parma Calcio 1913": 1466.6662727135067,
@@ -59,7 +59,7 @@
       "Venezia FC": 1453.4975705666816,
       "US Lecce": 1499.4769347678769,
       "Atalanta BC": 1495.2867889009678,
-      "US Sassuolo Calcio": 1511.7541386095202,
+      "US Sassuolo Calcio": 1500.3416379717066,
       "Torino FC": 1477.6187768947707,
       "AC Milan": 1527.5636687443707,
       "Bologna FC 1909": 1466.0722120918576,
@@ -68,13 +68,13 @@
       "ACF Fiorentina": 1476.0700467841616
     },
     "BL1": {
-      "FC Bayern München": 1525.7788477138336,
+      "FC Bayern München": 1534.0371267848761,
       "VfB Stuttgart": 1489.9119116578227,
       "RB Leipzig": 1508.5116512987663,
       "Borussia Mönchengladbach": 1468.257954261019,
       "1. FSV Mainz 05": 1496.905578069282,
       "SC Paderborn 07": 1479.4694848113252,
-      "1. FC Union Berlin": 1473.7137860908756,
+      "1. FC Union Berlin": 1465.455507019833,
       "Eintracht Frankfurt": 1503.094421930718,
       "SV 07 Elversberg": 1508.8752592414473,
       "Bayer 04 Leverkusen": 1503.094421930718,
@@ -90,7 +90,7 @@
     "FL1": {
       "Olympique de Marseille": 1477.689019896873,
       "RC Strasbourg Alsace": 1513.8049645189246,
-      "Racing Club de Lens": 1487.1176382020906,
+      "Racing Club de Lens": 1478.839996120401,
       "AJ Auxerre": 1477.6619721376221,
       "Le Mans FC": 1487.831926374367,
       "Stade Brestois 29": 1498.3790720748689,
@@ -103,7 +103,7 @@
       "Angers SCO": 1488.0237857514373,
       "Lille OSC": 1533.9220328703825,
       "Le Havre AC": 1473.5531664388375,
-      "AS Monaco FC": 1538.5620521192088,
+      "AS Monaco FC": 1546.8396942008983,
       "Stade Rennais FC 1901": 1530.4785337111057,
       "Paris Saint-Germain FC": 1505.8889786372768
     }
