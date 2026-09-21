@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T10:22:08.074Z",
+  "generatedAt": "2026-09-21T11:36:01.434Z",
   "matches": [
     {
       "competition": "PL",
@@ -367,6 +367,38 @@
       "homeTeam": "Nottingham Forest FC",
       "awayTeam": "Coventry City FC",
       "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "AFC Bournemouth",
+      "awayTeam": "Liverpool FC",
+      "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "Leeds United FC",
+      "awayTeam": "Crystal Palace FC",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Sunderland AFC",
+      "homeGoals": 5,
+      "awayGoals": 3
+    },
+    {
+      "competition": "PL",
+      "date": "2026-09-20T15:30:00Z",
+      "homeTeam": "Fulham FC",
+      "awayTeam": "Manchester United FC",
+      "homeGoals": 1,
       "awayGoals": 1
     },
     {
@@ -882,6 +914,46 @@
       "awayGoals": 3
     },
     {
+      "competition": "PD",
+      "date": "2026-09-20T12:00:00Z",
+      "homeTeam": "Getafe CF",
+      "awayTeam": "Málaga CF",
+      "homeGoals": 1,
+      "awayGoals": 0
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-20T14:15:00Z",
+      "homeTeam": "Club Atlético de Madrid",
+      "awayTeam": "Real Madrid CF",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-20T16:30:00Z",
+      "homeTeam": "RC Deportivo La Coruña",
+      "awayTeam": "Real Betis Balompié",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-20T16:30:00Z",
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Levante UD",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "competition": "PD",
+      "date": "2026-09-20T19:00:00Z",
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Real Sociedad de Fútbol",
+      "homeGoals": 2,
+      "awayGoals": 3
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -1242,6 +1314,46 @@
       "awayGoals": 2
     },
     {
+      "competition": "SA",
+      "date": "2026-09-20T10:30:00Z",
+      "homeTeam": "ACF Fiorentina",
+      "awayTeam": "SSC Napoli",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "Frosinone Calcio",
+      "awayTeam": "Como 1907",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "Parma Calcio 1913",
+      "awayTeam": "Genoa CFC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-20T16:00:00Z",
+      "homeTeam": "Juventus FC",
+      "awayTeam": "Atalanta BC",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "competition": "SA",
+      "date": "2026-09-20T18:45:00Z",
+      "homeTeam": "AC Milan",
+      "awayTeam": "US Lecce",
+      "homeGoals": 3,
+      "awayGoals": 0
+    },
+    {
       "competition": "BL1",
       "date": "2026-08-28T18:30:00Z",
       "homeTeam": "FC Bayern München",
@@ -1503,6 +1615,30 @@
       "homeTeam": "VfB Stuttgart",
       "awayTeam": "Borussia Dortmund",
       "homeGoals": 0,
+      "awayGoals": 1
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-20T13:30:00Z",
+      "homeTeam": "Bayer 04 Leverkusen",
+      "awayTeam": "RB Leipzig",
+      "homeGoals": 2,
+      "awayGoals": 0
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-20T15:30:00Z",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "SV 07 Elversberg",
+      "homeGoals": 0,
+      "awayGoals": 0
+    },
+    {
+      "competition": "BL1",
+      "date": "2026-09-20T17:30:00Z",
+      "homeTeam": "SC Paderborn 07",
+      "awayTeam": "TSG 1899 Hoffenheim",
+      "homeGoals": 3,
       "awayGoals": 1
     },
     {
@@ -1840,6 +1976,30 @@
       "awayTeam": "Stade Rennais FC 1901",
       "homeGoals": 4,
       "awayGoals": 0
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-20T13:00:00Z",
+      "homeTeam": "AJ Auxerre",
+      "awayTeam": "Stade Brestois 29",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-20T15:15:00Z",
+      "homeTeam": "OGC Nice",
+      "awayTeam": "Lille OSC",
+      "homeGoals": 2,
+      "awayGoals": 1
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-09-20T18:45:00Z",
+      "homeTeam": "Olympique de Marseille",
+      "awayTeam": "Paris Saint-Germain FC",
+      "homeGoals": 1,
+      "awayGoals": 2
     }
   ]
 }
