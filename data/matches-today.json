@@ -1,4 +1,35 @@
 {
-  "generatedAt": "2026-10-08T12:33:39.206Z",
-  "matches": []
+  "generatedAt": "2026-10-09T12:21:44.305Z",
+  "matches": [
+    {
+      "id": 564706,
+      "competition": "PD",
+      "utcDate": "2026-10-09T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Málaga CF",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565820,
+      "competition": "BL1",
+      "utcDate": "2026-10-09T18:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SV Werder Bremen",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559669,
+      "competition": "FL1",
+      "utcDate": "2026-10-09T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Olympique Lyonnais",
+      "score": null,
+      "odds": null
+    }
+  ]
 }
