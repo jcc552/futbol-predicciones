@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T12:21:42.381Z",
+  "generatedAt": "2026-10-10T11:40:20.496Z",
   "matches": [
     {
       "competition": "PL",
@@ -954,6 +954,14 @@
       "awayGoals": 3
     },
     {
+      "competition": "PD",
+      "date": "2026-10-09T19:00:00Z",
+      "homeTeam": "Málaga CF",
+      "awayTeam": "RCD Espanyol de Barcelona",
+      "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -1642,6 +1650,14 @@
       "awayGoals": 1
     },
     {
+      "competition": "BL1",
+      "date": "2026-10-09T18:30:00Z",
+      "homeTeam": "Borussia Dortmund",
+      "awayTeam": "SV Werder Bremen",
+      "homeGoals": 2,
+      "awayGoals": 2
+    },
+    {
       "competition": "FL1",
       "date": "2026-08-21T18:45:00Z",
       "homeTeam": "Olympique de Marseille",
@@ -2000,6 +2016,14 @@
       "awayTeam": "Paris Saint-Germain FC",
       "homeGoals": 1,
       "awayGoals": 2
+    },
+    {
+      "competition": "FL1",
+      "date": "2026-10-09T18:45:00Z",
+      "homeTeam": "Racing Club de Lens",
+      "awayTeam": "Olympique Lyonnais",
+      "homeGoals": 2,
+      "awayGoals": 1
     }
   ]
 }
