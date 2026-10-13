@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:02:03.905Z",
+  "generatedAt": "2026-10-13T13:16:23.512Z",
   "matches": [
     {
       "competition": "PL",
@@ -472,6 +472,14 @@
       "awayTeam": "Manchester City FC",
       "homeGoals": 0,
       "awayGoals": 3
+    },
+    {
+      "competition": "PL",
+      "date": "2026-10-12T19:00:00Z",
+      "homeTeam": "Coventry City FC",
+      "awayTeam": "Newcastle United FC",
+      "homeGoals": 4,
+      "awayGoals": 1
     },
     {
       "competition": "PD",
@@ -1090,6 +1098,14 @@
       "awayGoals": 2
     },
     {
+      "competition": "PD",
+      "date": "2026-10-12T19:00:00Z",
+      "homeTeam": "Levante UD",
+      "awayTeam": "Sevilla FC",
+      "homeGoals": 3,
+      "awayGoals": 3
+    },
+    {
       "competition": "SA",
       "date": "2026-08-22T16:30:00Z",
       "homeTeam": "Udinese Calcio",
@@ -1551,6 +1567,22 @@
       "homeTeam": "Cagliari Calcio",
       "awayTeam": "Juventus FC",
       "homeGoals": 1,
+      "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-10-12T16:30:00Z",
+      "homeTeam": "Atalanta BC",
+      "awayTeam": "Venezia FC",
+      "homeGoals": 3,
+      "awayGoals": 1
+    },
+    {
+      "competition": "SA",
+      "date": "2026-10-12T18:45:00Z",
+      "homeTeam": "Torino FC",
+      "awayTeam": "Udinese Calcio",
+      "homeGoals": 2,
       "awayGoals": 1
     },
     {

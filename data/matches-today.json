@@ -1,45 +1,4 @@
 {
-  "generatedAt": "2026-10-12T14:02:06.489Z",
-  "matches": [
-    {
-      "id": 560597,
-      "competition": "PL",
-      "utcDate": "2026-10-12T19:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Coventry City FC",
-      "awayTeam": "Newcastle United FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 564704,
-      "competition": "PD",
-      "utcDate": "2026-10-12T19:00:00Z",
-      "status": "TIMED",
-      "homeTeam": "Levante UD",
-      "awayTeam": "Sevilla FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558579,
-      "competition": "SA",
-      "utcDate": "2026-10-12T16:30:00Z",
-      "status": "TIMED",
-      "homeTeam": "Atalanta BC",
-      "awayTeam": "Venezia FC",
-      "score": null,
-      "odds": null
-    },
-    {
-      "id": 558587,
-      "competition": "SA",
-      "utcDate": "2026-10-12T18:45:00Z",
-      "status": "TIMED",
-      "homeTeam": "Torino FC",
-      "awayTeam": "Udinese Calcio",
-      "score": null,
-      "odds": null
-    }
-  ]
+  "generatedAt": "2026-10-13T13:16:25.543Z",
+  "matches": []
 }
