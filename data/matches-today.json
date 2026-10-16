@@ -1,4 +1,45 @@
 {
-  "generatedAt": "2026-10-15T10:38:08.147Z",
-  "matches": []
+  "generatedAt": "2026-10-16T10:24:49.714Z",
+  "matches": [
+    {
+      "id": 564716,
+      "competition": "PD",
+      "utcDate": "2026-10-16T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "RC Deportivo La Coruña",
+      "awayTeam": "Levante UD",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558573,
+      "competition": "SA",
+      "utcDate": "2026-10-16T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Frosinone Calcio",
+      "awayTeam": "US Sassuolo Calcio",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565828,
+      "competition": "BL1",
+      "utcDate": "2026-10-16T18:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Eintracht Frankfurt",
+      "awayTeam": "1. FC Köln",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559661,
+      "competition": "FL1",
+      "utcDate": "2026-10-16T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Le Mans FC",
+      "awayTeam": "Toulouse FC",
+      "score": null,
+      "odds": null
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T10:38:04.692Z",
+  "generatedAt": "2026-10-16T10:24:47.417Z",
   "matches": [
     {
       "competition": "PL",
@@ -447,38 +447,6 @@
       "homeTeam": "Manchester United FC",
       "awayTeam": "Tottenham Hotspur FC",
       "homeGoals": 1,
-      "awayGoals": 1
-    },
-    {
-      "competition": "PL",
-      "date": "2026-10-11T13:00:00Z",
-      "homeTeam": "Hull City AFC",
-      "awayTeam": "Everton FC",
-      "homeGoals": 2,
-      "awayGoals": 2
-    },
-    {
-      "competition": "PL",
-      "date": "2026-10-11T13:00:00Z",
-      "homeTeam": "Crystal Palace FC",
-      "awayTeam": "Nottingham Forest FC",
-      "homeGoals": 3,
-      "awayGoals": 1
-    },
-    {
-      "competition": "PL",
-      "date": "2026-10-11T15:30:00Z",
-      "homeTeam": "Liverpool FC",
-      "awayTeam": "Manchester City FC",
-      "homeGoals": 0,
-      "awayGoals": 3
-    },
-    {
-      "competition": "PL",
-      "date": "2026-10-12T19:00:00Z",
-      "homeTeam": "Coventry City FC",
-      "awayTeam": "Newcastle United FC",
-      "homeGoals": 4,
       "awayGoals": 1
     },
     {
