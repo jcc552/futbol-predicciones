@@ -1,43 +1,213 @@
 {
-  "generatedAt": "2026-10-16T10:24:49.714Z",
+  "generatedAt": "2026-10-17T09:56:56.854Z",
   "matches": [
     {
-      "id": 564716,
+      "id": 560603,
+      "competition": "PL",
+      "utcDate": "2026-10-17T11:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Everton FC",
+      "awayTeam": "Chelsea FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560602,
+      "competition": "PL",
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Fulham FC",
+      "awayTeam": "Hull City AFC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560610,
+      "competition": "PL",
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Manchester City FC",
+      "awayTeam": "Ipswich Town FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560611,
+      "competition": "PL",
+      "utcDate": "2026-10-17T14:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Brentford FC",
+      "awayTeam": "Liverpool FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 560607,
+      "competition": "PL",
+      "utcDate": "2026-10-17T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Newcastle United FC",
+      "awayTeam": "Aston Villa FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564710,
       "competition": "PD",
-      "utcDate": "2026-10-16T19:00:00Z",
+      "utcDate": "2026-10-17T12:00:00Z",
       "status": "TIMED",
-      "homeTeam": "RC Deportivo La Coruña",
-      "awayTeam": "Levante UD",
+      "homeTeam": "RCD Espanyol de Barcelona",
+      "awayTeam": "Club Atlético de Madrid",
       "score": null,
       "odds": null
     },
     {
-      "id": 558573,
+      "id": 564708,
+      "competition": "PD",
+      "utcDate": "2026-10-17T14:15:00Z",
+      "status": "TIMED",
+      "homeTeam": "Villarreal CF",
+      "awayTeam": "Elche CF",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564713,
+      "competition": "PD",
+      "utcDate": "2026-10-17T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "Real Betis Balompié",
+      "awayTeam": "FC Barcelona",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 564711,
+      "competition": "PD",
+      "utcDate": "2026-10-17T19:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Valencia CF",
+      "awayTeam": "Athletic Club",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558575,
       "competition": "SA",
-      "utcDate": "2026-10-16T18:45:00Z",
+      "utcDate": "2026-10-17T13:00:00Z",
       "status": "TIMED",
-      "homeTeam": "Frosinone Calcio",
-      "awayTeam": "US Sassuolo Calcio",
+      "homeTeam": "Venezia FC",
+      "awayTeam": "SSC Napoli",
       "score": null,
       "odds": null
     },
     {
-      "id": 565828,
+      "id": 558571,
+      "competition": "SA",
+      "utcDate": "2026-10-17T16:00:00Z",
+      "status": "TIMED",
+      "homeTeam": "Bologna FC 1909",
+      "awayTeam": "FC Internazionale Milano",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 558572,
+      "competition": "SA",
+      "utcDate": "2026-10-17T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "AS Roma",
+      "awayTeam": "Genoa CFC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565821,
       "competition": "BL1",
-      "utcDate": "2026-10-16T18:30:00Z",
+      "utcDate": "2026-10-17T13:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Eintracht Frankfurt",
-      "awayTeam": "1. FC Köln",
+      "homeTeam": "1. FC Union Berlin",
+      "awayTeam": "Borussia Dortmund",
       "score": null,
       "odds": null
     },
     {
-      "id": 559661,
-      "competition": "FL1",
-      "utcDate": "2026-10-16T18:45:00Z",
+      "id": 565822,
+      "competition": "BL1",
+      "utcDate": "2026-10-17T13:30:00Z",
       "status": "TIMED",
-      "homeTeam": "Le Mans FC",
-      "awayTeam": "Toulouse FC",
+      "homeTeam": "Hamburger SV",
+      "awayTeam": "VfB Stuttgart",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565823,
+      "competition": "BL1",
+      "utcDate": "2026-10-17T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "SV Werder Bremen",
+      "awayTeam": "SC Paderborn 07",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565824,
+      "competition": "BL1",
+      "utcDate": "2026-10-17T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "SV 07 Elversberg",
+      "awayTeam": "FC Augsburg",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565829,
+      "competition": "BL1",
+      "utcDate": "2026-10-17T13:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "FC Schalke 04",
+      "awayTeam": "1. FSV Mainz 05",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 565825,
+      "competition": "BL1",
+      "utcDate": "2026-10-17T16:30:00Z",
+      "status": "TIMED",
+      "homeTeam": "FC Bayern München",
+      "awayTeam": "RB Leipzig",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559662,
+      "competition": "FL1",
+      "utcDate": "2026-10-17T15:15:00Z",
+      "status": "TIMED",
+      "homeTeam": "RC Strasbourg Alsace",
+      "awayTeam": "Paris Saint-Germain FC",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559659,
+      "competition": "FL1",
+      "utcDate": "2026-10-17T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "ES Troyes AC",
+      "awayTeam": "Racing Club de Lens",
+      "score": null,
+      "odds": null
+    },
+    {
+      "id": 559660,
+      "competition": "FL1",
+      "utcDate": "2026-10-17T18:45:00Z",
+      "status": "TIMED",
+      "homeTeam": "Lille OSC",
+      "awayTeam": "Stade Brestois 29",
       "score": null,
       "odds": null
     }
